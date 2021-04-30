@@ -1,2 +1,2 @@
 # hammurabi
-Hammurabi: simple resource management strategy game
+Simple resource management strategy game
